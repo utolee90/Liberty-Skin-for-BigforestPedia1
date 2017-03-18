@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Liberty LLC","...", "Modified by Utolee90"
+		]
+	},
+	"skinname-liberty": "Liberty",
+	"liberty-desc": "Default skin of Libre Wiki. Modified in order to adjust for Bigforestpedia",
+	"liberty.css": "/* CSS placed here will affect users of the Liberty skin */",
+	"liberty.js": "/* Any JavaScript here will be loaded for users using the Liberty skin */"
+}
